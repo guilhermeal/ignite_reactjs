@@ -1,7 +1,5 @@
-export function App() {
-  // Erro lançado para validar no console do navegador
-  // o funcionamento do Source map (devtool)
-  throw new Error('Chama no Erro!!!');
+import './styles/global.css';
 
+export function App() {
   return <h1>Hello Guilherme!</h1>
 }
