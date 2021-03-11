@@ -38,3 +38,11 @@
 [**Aula #0015 :: A imutabilidade no React**](https://www.notion.so/Aula-0015-A-imutabilidade-no-React-59ebd955d5ee46b7b19abb2a3ded8bda)
 
 [**Aula #0016 :: Fast Refresh no Webpack**](https://www.notion.so/Aula-0016-Fast-Refresh-no-Webpack-3eecc5cc1dab4b43a32694b3ad5ac7e4)
+
+### Módulo 03 : Chamadas HTTP
+
+[**Aula #0017 :: Estilização da listagem**](https://www.notion.so/Aula-0017-Estiliza-o-da-listagem-ccb9007ebe4b4b208cc6f157ccd86ee7)
+
+[**Aula #0018 :: Utilizando o useEffect**](https://www.notion.so/Aula-0018-Utilizando-o-useEffect-6c5a104f39134b2c84cc6f2c7075e99e)
+
+[**Aula #0019 :: Listando repositórios**](https://www.notion.so/Aula-0019-Listando-reposit-rios-c52d7a0ebfd2434eba817e3f5e1630b0)
