@@ -1,10 +1,14 @@
 export function RepositoryItem(props) {
   return (
     <li>
-      <strong>{props.repository?.name ?? 'Default names'}</strong>
-      <p>{props.repository?.description ?? 'None'}</p>
+      <strong>
+        <a href={props.repository?.owner.html_url ?? '#'}>{props.repository?.owner.login ?? 'InvalidLogin'}</a>
+        <span> / </span>
+        {props.repository?.name ?? 'Invalid project name'}
+      </strong>
+      <p>{props.repository?.description ?? ''}</p>
 
-      <a href={props.repository?.link ?? '#'}>
+      <a href={props.repository?.html_url ?? '#'}>
         Acessar repositório
       </a>
 
