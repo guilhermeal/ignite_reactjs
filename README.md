@@ -46,3 +46,12 @@
 [**Aula #0018 :: Utilizando o useEffect**](https://www.notion.so/Aula-0018-Utilizando-o-useEffect-6c5a104f39134b2c84cc6f2c7075e99e)
 
 [**Aula #0019 :: Listando repositórios**](https://www.notion.so/Aula-0019-Listando-reposit-rios-c52d7a0ebfd2434eba817e3f5e1630b0)
+
+
+### Módulo 04 : Chamadas HTTP
+
+[**Aula #0020 :: Usando TypeScript**](https://www.notion.so/Aula-0020-Usando-TypeScript-55962f5f500b4378bdb9604f545e6535)
+
+[**Aula #0021 :: TypeScript no ReactJS**](https://www.notion.so/Aula-0021-TypeScript-no-ReactJS-ff34d3ad4226499383cb74c29211aecb)
+
+[**Aula #0022 :: Componentes com TypeScript**](https://www.notion.so/Aula-0022-Componentes-com-TypeScript-7c93a9021ec242708c9ef556e7d96c32)
